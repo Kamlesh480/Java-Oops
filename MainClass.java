@@ -1,3 +1,5 @@
+import encapsulation.EncapsulationIntro;
+
 public class MainClass {
     public static void main(String[] args) {
         System.out.println("let's code today in java, let's start");
@@ -25,6 +27,10 @@ public class MainClass {
         System.out.println(newline);
 
         System.out.println("constrcut " + Coder.count + " times");
+        System.out.println(newline);
+
+        EncapsulationIntro obj = new EncapsulationIntro();
+        obj.encapFunc();
     }
 }
 
