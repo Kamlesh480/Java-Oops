@@ -23,6 +23,6 @@ MainClass contains :
    Hide complexity from the user.
    Abstrct fun agar aapne banaya hai to - uski class ko bhi abstrct karna jaruri hain.
 8. Abstrct VS interfaces
-   interface ke under sabhi function bydeaful, public and abstract hote hain - to aap fun defination nahi add kar sakte
+   interface ke under sabhi function bydefault, public and abstract hote hain - to aap fun defination nahi add kar sakte
    but in abstrct aap funtion (which are without abstract key) unki defination add kar sakte ho, ex: status() fun in abstrction.java
    implements key word: classes ke liye hota hai extend vese hi interface ke liye hota hai - implements
